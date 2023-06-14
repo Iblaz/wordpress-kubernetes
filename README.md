@@ -1,11 +1,11 @@
 # wordpress-kubernetes
 
-This repository content files yaml to deploy a Mongodb's cluster in Kubernetes  
+Este repositorio contiene archivos yaml para implementar un clúster de MariaDB en Kubernetes.
 
-Steps to deploy the app:  
+Pasos para implementar la aplicación:
 
-1. Clone the repository  
+Clona el repositorio.
 
-2. Exec inside cloned directory: kubectl apply -f .  
+Ejecuta dentro del directorio clonado: kubectl apply -f .
 
-3. Access to www.miwordpress.org
+Accede a www.miwordpress.org.
