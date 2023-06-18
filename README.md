@@ -8,4 +8,4 @@ Clona el repositorio.
 
 Ejecuta dentro del directorio clonado: kubectl apply -f .
 
-Accede a www.miwordpress.org.
+Accede a wordpress mediante la IP generada.
